@@ -1,0 +1,4 @@
+Flask
+redis==5.0.1
+pandas
+
